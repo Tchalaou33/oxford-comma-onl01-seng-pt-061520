@@ -4,5 +4,5 @@ def oxford_comma(array)
 end
 
 def oxford_comma(array)
-  array=["kiwi", "durian"].jion(and)
+  array=["kiwi", "durian"].jion("and")
 end
